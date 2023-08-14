@@ -8724,6 +8724,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5991212331319638928, guid: 7f959005b8dafb94884ff02883ad3a6c, type: 3}
+      propertyPath: maxJumpHeight
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 8904102323102194840, guid: 7f959005b8dafb94884ff02883ad3a6c, type: 3}
       propertyPath: m_Name
       value: Mario
